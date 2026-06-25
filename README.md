@@ -12,14 +12,6 @@ Este repositorio ha sido creado con el propósito de almacenar y organizar infor
 - Documentar proyectos y avances personales.
 - Desarrollar habilidades en programación y gestión de repositorios.
 
-## 🛠️ Tecnologías y Herramientas
-
-- Git
-- GitHub
-- Visual Studio Code
-- HTML, CSS y JavaScript
-- Bases de datos SQL
-
 ## 📚 Sobre mí
 
 Soy un estudiante interesado en la tecnología, la programación y el desarrollo de proyectos informáticos. Utilizo este repositorio como un espacio para aprender, experimentar y mejorar mis habilidades técnicas mediante la práctica constante.
@@ -28,6 +20,8 @@ Soy un estudiante interesado en la tecnología, la programación y el desarrollo
 
 Actualmente este repositorio se encuentra en desarrollo y seguirá actualizándose con nueva información, documentación y proyectos a medida que continúe mi aprendizaje.
 
----
+## 📖 Frase 
 
+"¡Rechaza el sentido común para hacer posible lo imposible!"
+-Simon
 ⭐ Gracias por visitar este repositorio.
