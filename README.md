@@ -24,4 +24,4 @@ Actualmente este repositorio se encuentra en desarrollo y seguirá actualizándo
 
 "¡Rechaza el sentido común para hacer posible lo imposible!"
 -Simon
-⭐ Gracias por visitar este repositorio.
+## ⭐ Gracias por visitar este repositorio.
